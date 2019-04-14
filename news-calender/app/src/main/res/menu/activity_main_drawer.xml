@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_topstories"
+            android:icon="@drawable/ic_menu_topstories"
+            android:title="Top Stories" />
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_menu_filter"
+            android:title="Categories" />
+        <item
+            android:id="@+id/nav_calender"
+            android:icon="@drawable/ic_menu_calender"
+            android:title="Calender" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Country" />
+    </group>
+    <item android:title="version 1.0.1">
+        <menu>
+
+            <item
+                android:id="@+id/feedback"
+                android:icon="@drawable/ic_menu_feedback"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_help"
+                android:title="About" />
+
+
+        </menu>
+    </item>
+
+
+</menu>

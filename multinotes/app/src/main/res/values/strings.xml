@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MultiNotes</string>
+    <string name="newnote">New</string>
+    <string name="help">help</string>
+    <string name="welcome">Welcome to MultiNotes !</string>
+    <string name="delete">Delete Note</string>
+    <string name="about">Multi-Notes</string>
+    <string name="about1">\u00a9 SATYA VAMSI KRISHNA MOGANTI</string>
+    <string name="about2">Version 1.0 </string>
+    <string name="nameConstraint" />
+    <string name="dttimeConstraint" />
+    <string name="descConstraint" />
+    <string name="noteName" />
+    <string name="prodDesc" />
+    <string name="save" />
+    <string name="file_name">MainData.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="saved">Product Saved !</string>
+    <string name="no_file">No File Exist</string>
+    <string name="newNoteIdentifierConst">New Note</string>
+    <string name="hintdesc" >Start Writing here !</string>
+    <string name="oldNoteIdentifierConst">Old Existing Note</string>
+    <string name="hintName" >Enter Note Name</string>
+    <string name="backdlgtxt" >Save Changes ?</string>
+
+
+</resources>

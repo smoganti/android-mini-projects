@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="addstock" />
+    <string name="stockID" />
+    <string name="stockfullName" />
+    <string name="enterstockname" />
+    <string name="stockValue" />
+</resources>

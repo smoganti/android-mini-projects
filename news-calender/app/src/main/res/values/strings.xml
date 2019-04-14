@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NewsCalender</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sourceid" />
+    <string name="sourcedesc" />
+    <string name="webview">View Full Article</string>
+    <string name="count" />
+    <string name="desc" />
+    <string name="author" />
+    <string name="datestmp" />
+    <string name="submitbutton">SUBMIT</string>
+    <string name="share" />
+    <string name="txthint">Start Entering your Text Here!</string>
+    <string name="addtoDate" />
+    <string name="About">\t\n\n ->This application shows the News Sources and upon clicking them shows the Articles. \n
+    \t ->The news sources and Artciles are obtained from <a href="www.newsapi.org"> News API goto -> www.newsapi.org</a>.
+    \n \t ->The unique feature of this application is you can add the specific Articles to calender and can refer them whenever you want in future.
+    \n \t ->However I do not hold any responsibility for retaining of articles because it depends on availability from the source.
+    \n \t ->As long as there is availability from source, you can refer to the article at any point after adding to the Calender.
+    \n \t ->The article content is stored in your Internal Storage.
+    \n \t ->There are only few countries and few sources. We will update you for any further sources and countries according to availability.
+    \n \t ->Please rate us in Play Store.
+    \n \t -><a href="https://icons8.com/web-app/21093/News">Icon credits goto -> https://icons8.com/web-app/21093/News</a> </string>
+    <string name="title_activity_feedback">FeedbackActivity</string>
+    <string name="feedbackTxt" />
+
+
+</resources>
